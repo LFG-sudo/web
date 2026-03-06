@@ -1,0 +1,56 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f2f2f2;
+margin: 0;
+padding: 0;
+}
+
+.contenedor{
+width: 80%;
+margin: auto;
+background: white;
+padding: 20px;
+}
+
+header{
+text-align: center;
+}
+
+h1{
+color: black;
+}
+
+p{
+color: brown;
+}
+
+.seccion{
+margin-top: 30px;
+}
+
+table{
+width: 100%;
+border-collapse: collapse;
+}
+
+th, td{
+border: 1px solid black;
+padding: 10px;
+text-align: center;
+}
+
+th{
+background-color: lightgray;
+}
+
+img{
+width: 400px;
+}
+
+footer{
+margin-top: 30px;
+text-align: center;
+background: black;
+color: white;
+padding: 10px;
+}
